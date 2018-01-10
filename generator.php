@@ -13,7 +13,7 @@ input[type="text"]
 <hr>
 </head>
 <body >
-<form action="generator_zapis2.php?db_name=pytania_e12" name="generator" method="post"> 
+<form action="generator_zapis.php?db_name=pytania_e12" name="generator" method="post"> 
 <?php
 
 echo "Wpisz pytanie:<input type='text' name='pytanie'><br>";

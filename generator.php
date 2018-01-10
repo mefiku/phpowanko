@@ -2,7 +2,7 @@
 <link rel="stylesheet" type="text/css" href="./css/1512322053.css" />
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<h1 align=center style='font-family: comic sans ms' >Generator pytań</h1>
+<h1 align=center style='font-family: Comic Sans MS' >Generator pytań</h1>
 <style type="text/css">
 input[type="text"]
 {
